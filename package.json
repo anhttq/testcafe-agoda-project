@@ -1,0 +1,20 @@
+{
+  "name": "agodaexercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "moment": "^2.29.4",
+    "testcafe": "^2.3.0",
+    "testcafe-reporter-html": "^1.4.6"
+  },
+  "devDependencies": {
+    "testcafe-blink-diff": "^0.5.4"
+  }
+}

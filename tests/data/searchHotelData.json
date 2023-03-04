@@ -1,0 +1,15 @@
+[
+    {
+        "baseUrl": "https://www.agoda.com",
+        "keyword": "Da Nang",
+        "startNextWeekday": "Friday",
+        "stayDays": 3,
+        "checkinDate": "04/30/2023",
+        "checkoutDate": "05/03/2023",
+        "numberOfHotel": 5,
+        "numberOfRoom": 2,
+        "numberOfAdults": 4,
+        "minPrice": "500000",
+        "maxPrice": "1000000"
+    }
+]
